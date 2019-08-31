@@ -1,0 +1,8 @@
+/node_modules
+package-lock.json
+devConnector.iml
+misc.xml
+modules.xml
+vcs.xml
+workspace.xml
+/client/node_modules
